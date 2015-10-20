@@ -24,7 +24,7 @@
 
 int main(void)
 {
-  printf("\n\n*** assimp sizes ***\n\n")
+  printf("\n\n*** assimp sizes ***\n\n");
   
   printf("sizeof(aiExportFormatDesc) = %lu\n", sizeof(aiExportFormatDesc));
   printf("sizeof(aiScene) = %lu\n", sizeof(aiScene));
